@@ -1,2 +1,2 @@
 # MySuperProject
-Hello Universe!
+Hello Everyone!
