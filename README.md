@@ -1,2 +1,2 @@
 # MySuperProject
-Hello world!
+Hello Team!
